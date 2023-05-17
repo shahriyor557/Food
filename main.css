@@ -1,0 +1,45 @@
+.tana {
+    padding-top: 25px;
+    padding-left: 70px;
+    width: 700px;
+    background-color: aqua;
+    margin: 78px 0 0 350px;
+}
+.hhu {
+    display: flex;
+}
+.firs {
+    margin-right: 200px;
+    margin-bottom: 30px;
+
+}
+.kkk {
+    display: flex;
+}
+.email {
+    margin-right: 200px;
+}
+.select {
+    width: 100%;
+    height: 20px;
+}
+.stys {
+    display: flex;
+}
+.adds {
+    margin: 50px 0 50px 0;
+}
+.datee {
+
+    display: flex;
+}
+.date {
+    margin-right: 255px;
+}
+.fayl {
+    padding-top: 5px;
+    padding-left: 5px;
+    border: 1px solid black;
+    width: 200px;
+    height: 30px;
+}

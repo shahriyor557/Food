@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.birinchi {
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://wallpapers.com/images/hd/beautiful-mountain-view-j865mil1r05qpikl.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-position: fixed;
+
+
+
+
+}
+
+.oq {
+    text-align: center;
+    padding-bottom: 40px;
+    padding: 0 50px 0 50px;
+
+
+
+}
+
+.yozuv {
+    position: absolute;
+    width: 330px;
+    height: 30px;
+    background-color: #313534;
+    color: #fff;
+    font-size: x-large;
+    text-align: center;
+    right: 40%;
+    top: 48%;
+    padding-top: 7px;
+
+    font-family: "lato", sans-serif;
+    letter-spacing: 4px;
+
+}
+
+.ikki {
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://mobimg.b-cdn.net/v3/fetch/50/506e8ce999d5c5cdc8117326e04a8c6e.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-position: fixed;
+
+
+}
+
+.yozuv2 {
+    position: absolute;
+    width: 300px;
+    height: 30px;
+    background-color: #313534;
+    color: #fff;
+    font-size: x-large;
+    text-align: center;
+    right: 41%;
+    top: 48%;
+    padding-top: 7px;
+
+    font-family: "lato", sans-serif;
+    letter-spacing: 2px;
+
+}
+
+.qora {
+    background-color: #282e28;
+    color: #fff;
+    padding-bottom: 40px;
+    text-align: center;
+    padding: 0 50px 0 50px;
+
+}
+
+.uchinchi {
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://priroda.club/uploads/posts/2022-06/thumbs/1654634387_21-priroda-club-p-samie-krasivie-vodopadi-priroda-krasivo-fo-21.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-position: fixed;
+
+}
+
+.yozuv3 {
+    position: absolute;
+    width: 400px;
+    height: 30px;
+    background-color: rgb(28, 25, 25);
+    color: #fff;
+    font-size: x-large;
+    text-align: center;
+    right: 37%;
+    top: 47%;
+    padding-top: 7px;
+    font-family: "lato", sans-serif;
+    letter-spacing: 2px;
+}
+
+.qora1 {
+    background-color: #282e28;
+    color: #fff;
+    text-align: center;
+    padding: 0 50px 0 50px;
+
+
+}
+
+.qora1 p {
+    margin: 10px 50px 0px 50px;
+    padding-bottom: 40px;
+}
+
+.turt {
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://s01.yapfiles.ru/files/1620313/.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-position: fixed;
+
+}
+
+.yozuv4 {
+    position: absolute;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(28, 25, 25);
+    color: #fff;
+    font-size: x-large;
+    text-align: center;
+    right: 40%;
+    top: 48%;
+    padding-top: 7px;
+
+    font-family: "lato", sans-serif;
+    letter-spacing: 2px;
+
+}
